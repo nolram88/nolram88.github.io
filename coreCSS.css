@@ -18,7 +18,7 @@ canvas {
   height:204px;
   margin:0 auto;
   display:block;
-  border:1px dashed #555;
+  
   border-top:none;
 }
 
@@ -41,31 +41,3 @@ canvas {
   border-bottom:1px solid #eee;
 }
 
-p {
-  font-family:Arial, sans-serif;
-  color:#666;
-  text-align:justify;
-  font-size: 16px;
-  line-height:22px;
-  margin:10px;
-}
-
-a {
-  font-family:sans-serif;
-  color:#444;
-  text-decoration:none;
-  font-size: 20px;
-}
-
-#site {
-  float:left;
-  margin: 10px;
-  color: #38a;
-  border-bottom: 1px dashed #bbf;
-  padding-bottom:3px
-}
-
-#close {
-  float:right;
-  margin: 10px;
-}
